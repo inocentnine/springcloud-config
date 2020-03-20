@@ -2,4 +2,4 @@ mysql.url: jdbc:mysql://localhost:3306/dictionary?serverTimezone=UTC&useUnicode=
 mysql.username: root
 mysql.password: password
 
-dictionary: dict-1.0.0.1
+dictionary: dict-1.0.0
